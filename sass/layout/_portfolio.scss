@@ -91,7 +91,7 @@ img{
     transition: transform 250ms;
     overflow: auto;
     :hover,
-.portfolio-item:focus & {
+.portfolio-item:hover & {
         transform: translateY(0);
     } 
 }
