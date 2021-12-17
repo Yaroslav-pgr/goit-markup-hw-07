@@ -538,8 +538,8 @@ pattern="[\+]\d{3}\s[\(]\d{2}[\)]\s\d{3}[\-]\d{2}[\-]\d{2}"*/
 
 .about__item-text {
   position: absolute;
+  bottom: 3px;
   width: 100%;
-  bottom: 0;
   font-weight: bold;
   line-height: 1.14;
   text-align: center;
